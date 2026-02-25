@@ -1,0 +1,5 @@
+C:\Users\st310-04\Desktop\Демин\Pract_4_OK_FKS\obj\Debug\net8.0\Pract_4_OK_FKS.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\st310-04\Desktop\Демин\Pract_4_OK_FKS\obj\Debug\net8.0\Pract_4_OK_FKS.AssemblyInfoInputs.cache
+C:\Users\st310-04\Desktop\Демин\Pract_4_OK_FKS\obj\Debug\net8.0\Pract_4_OK_FKS.AssemblyInfo.cs
+C:\Users\st310-04\Desktop\Демин\Pract_4_OK_FKS\obj\Debug\net8.0\Pract_4_OK_FKS.csproj.CoreCompileInputs.cache
+C:\Users\st310-04\Desktop\Демин\Pract_4_OK_FKS\obj\Debug\net8.0\Pract_4_OK_FKS.sourcelink.json
