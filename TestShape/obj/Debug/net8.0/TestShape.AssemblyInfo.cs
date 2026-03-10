@@ -11,12 +11,12 @@
 using System;
 using System.Reflection;
 
-[assembly: System.Reflection.AssemblyCompanyAttribute("Pract_4_OK_FKS")]
+[assembly: System.Reflection.AssemblyCompanyAttribute("TestShape")]
 [assembly: System.Reflection.AssemblyConfigurationAttribute("Debug")]
 [assembly: System.Reflection.AssemblyFileVersionAttribute("1.0.0.0")]
-[assembly: System.Reflection.AssemblyInformationalVersionAttribute("1.0.0+8565b90016af7e0708f831e354d6f558d7380808")]
-[assembly: System.Reflection.AssemblyProductAttribute("Pract_4_OK_FKS")]
-[assembly: System.Reflection.AssemblyTitleAttribute("Pract_4_OK_FKS")]
+[assembly: System.Reflection.AssemblyInformationalVersionAttribute("1.0.0")]
+[assembly: System.Reflection.AssemblyProductAttribute("TestShape")]
+[assembly: System.Reflection.AssemblyTitleAttribute("TestShape")]
 [assembly: System.Reflection.AssemblyVersionAttribute("1.0.0.0")]
 
 // Создано классом WriteCodeFragment MSBuild.
