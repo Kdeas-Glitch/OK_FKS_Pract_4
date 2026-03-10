@@ -13,7 +13,7 @@ namespace Pract_4_OK_FKS
 
         public Rectangle(double width,double height)
         {
-            if (Width > 0 && Height > 0)
+            if (width > 0 && height > 0)
             {
                 Width = width;
                 Height = height;

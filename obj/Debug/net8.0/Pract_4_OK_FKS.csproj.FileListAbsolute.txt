@@ -3,3 +3,15 @@ C:\Users\st310-04\Desktop\Демин\Pract_4_OK_FKS\obj\Debug\net8.0\Pract_4_OK_
 C:\Users\st310-04\Desktop\Демин\Pract_4_OK_FKS\obj\Debug\net8.0\Pract_4_OK_FKS.AssemblyInfo.cs
 C:\Users\st310-04\Desktop\Демин\Pract_4_OK_FKS\obj\Debug\net8.0\Pract_4_OK_FKS.csproj.CoreCompileInputs.cache
 C:\Users\st310-04\Desktop\Демин\Pract_4_OK_FKS\obj\Debug\net8.0\Pract_4_OK_FKS.sourcelink.json
+C:\Users\HardShop\Desktop\Projects\OK_FKS_Pract_4\obj\Debug\net8.0\Pract_4_OK_FKS.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\HardShop\Desktop\Projects\OK_FKS_Pract_4\obj\Debug\net8.0\Pract_4_OK_FKS.AssemblyInfoInputs.cache
+C:\Users\HardShop\Desktop\Projects\OK_FKS_Pract_4\obj\Debug\net8.0\Pract_4_OK_FKS.AssemblyInfo.cs
+C:\Users\HardShop\Desktop\Projects\OK_FKS_Pract_4\obj\Debug\net8.0\Pract_4_OK_FKS.csproj.CoreCompileInputs.cache
+C:\Users\HardShop\Desktop\Projects\OK_FKS_Pract_4\obj\Debug\net8.0\Pract_4_OK_FKS.sourcelink.json
+C:\Users\HardShop\Desktop\Projects\OK_FKS_Pract_4\bin\Debug\net8.0\Pract_4_OK_FKS.deps.json
+C:\Users\HardShop\Desktop\Projects\OK_FKS_Pract_4\bin\Debug\net8.0\Pract_4_OK_FKS.dll
+C:\Users\HardShop\Desktop\Projects\OK_FKS_Pract_4\bin\Debug\net8.0\Pract_4_OK_FKS.pdb
+C:\Users\HardShop\Desktop\Projects\OK_FKS_Pract_4\obj\Debug\net8.0\Pract_4_OK_FKS.dll
+C:\Users\HardShop\Desktop\Projects\OK_FKS_Pract_4\obj\Debug\net8.0\refint\Pract_4_OK_FKS.dll
+C:\Users\HardShop\Desktop\Projects\OK_FKS_Pract_4\obj\Debug\net8.0\Pract_4_OK_FKS.pdb
+C:\Users\HardShop\Desktop\Projects\OK_FKS_Pract_4\obj\Debug\net8.0\ref\Pract_4_OK_FKS.dll

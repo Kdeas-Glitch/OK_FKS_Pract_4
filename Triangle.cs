@@ -9,9 +9,9 @@ namespace Pract_4_OK_FKS
     public class Triangle: Shape
     {
 
-        private double SideA { get; set; } = 0;
-        private double SideB { get; set; } = 0;
-        private double SideC { get; set; } = 0;
+        public double SideA { get; set; } = 0;
+        public double SideB { get; set; } = 0;
+        public double SideC { get; set; } = 0;
 
         public Triangle(double a,double b,double c)
         {
